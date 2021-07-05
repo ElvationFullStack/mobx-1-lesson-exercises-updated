@@ -8,3 +8,8 @@ You will also see any lint errors in the console.
 
 # about the app 
  this is a react app that we use mobx as model manger for state of app component 
+
+
+ # To Do 
+ i want to add some css styling for this app ,
+ some alert event for our operations 
