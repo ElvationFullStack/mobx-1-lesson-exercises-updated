@@ -9,7 +9,10 @@ export class Item {
 
         makeObservable(this, {
             name: observable,
-            completed: observable
+            completed: observable,
+            location:observable
         })
+        
     }
+    
 }
